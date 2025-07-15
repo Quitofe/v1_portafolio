@@ -1,3 +1,8 @@
+---
+Email: acr.agila@yavirac.edu.ec
+Github: https://github.com/Quitofe
+---
+
 ### Portafolio v1
 
 # Alan Agila 
@@ -17,6 +22,3 @@
 *Bachiller en Ciencias*
 
 ## Contacto
-
-- Email: acr.agila@yavirac.edu.ec
-- Github: https://github.com/Quitofe
