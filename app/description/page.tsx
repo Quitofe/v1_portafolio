@@ -1,6 +1,7 @@
 import { getMarkdownContent } from '@/lib/markdown';
 import { MdEmail } from 'react-icons/md';
 import { FaGithub } from 'react-icons/fa';
+import NavigationButton from '@/components/botton';
 
 export default async function descripcion() {
   const { contentHtml } = await getMarkdownContent('descripcion.md');
@@ -30,6 +31,7 @@ export default async function descripcion() {
           </a>
         </div>
       </div>
+      <NavigationButton to="/" label="Ir a Pagina Principal" />
     </div>
   );
 }
