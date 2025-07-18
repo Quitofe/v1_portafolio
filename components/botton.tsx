@@ -17,7 +17,7 @@ export default function NavigationButton({ to, label }: NavigationButtonProps) {
   return (
     <button
       onClick={handleClick}
-      className="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition"
+      className="px-6 py-3 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition"
     >
       {label}
     </button>
